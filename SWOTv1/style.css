@@ -5,7 +5,7 @@ body {
   margin: 25px 32px 25px 32px;
 }
 
- h2 {
+ h1 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-style: italic;
   font-size: 2.5rem;
@@ -14,15 +14,22 @@ body {
   margin: 25px 32px 25px 32px;
   /* top right bottom left */
  }
-
-p2 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgb(221, 209, 38);
-  font-size: 32.5px;
-}
+ h2 {
+   font-family: 'DM Sans', sans-serif;
+   font-family: 'Oswald', sans-serif;
+   font-family: 'Poppins', sans-serif; ;
+ }
 
 h4 {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(139, 134, 51);
+  font-size: 23.5px;
+}
+
+h3 {
+   font-family: 'DM Sans', sans-serif; 
+  font-family: 'Poppins', sans-serif;
+  font-size: 23px;
   font-display: italic;
   font-style: oblique;
   font-size: 32px;
@@ -37,10 +44,12 @@ p {
   border: solid 2px black;
 }
 
-h3 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 23px;
-} 
+p2 {
+  font-family: serif;
+  font-size: 21.3px;
+  color: whitesmoke;
+}
+
 div {
   background-image: url(imagens/fundo\ de\ papel\ velho\ v1.jpg);
 }
