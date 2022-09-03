@@ -45,7 +45,11 @@ div {
   background-image: url(imagens/fundo\ de\ papel\ velho\ v1.jpg);
 }
 
-li {
+/*nav {
+  background-color: aquamarine;
+} */
+
+nav {
   background-image: url(imagens/azul\ fundo.png);
   
 }
