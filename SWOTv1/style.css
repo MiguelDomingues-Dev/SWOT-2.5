@@ -1,16 +1,19 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: rgb(12, 12, 12);
-  background-image: url(imagens/pepsi01.png)
-  
+  background-image: url(imagens/pepsi01.png) ;
+  margin: 25px 32px 25px 32px;
 }
 
-h2 {
+ h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-style: italic;
   font-size: 2.5rem;
-  color: rgb(255, 255, 255);
-}
+  color: rgb(161, 159, 159);
+  border: solid 2px black;
+  margin: 25px 32px 25px 32px;
+  /* top right bottom left */
+ }
 
 p2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -29,12 +32,21 @@ h4 {
 p {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 25px;
-  color: rgb(181, 182, 197);
+  color: rgb(139, 140, 156);
+  margin: 22.5px 32px 25px 22.5px;
+  border: solid 2px black;
 }
 
 h3 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 23px;
 } 
+div {
+  background-image: url(imagens/fundo\ de\ papel\ velho\ v1.jpg);
+}
 
+li {
+  background-image: url(imagens/azul\ fundo.png);
+  
+}
 
