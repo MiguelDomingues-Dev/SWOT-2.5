@@ -44,6 +44,14 @@ p {
   border: solid 2px black;
 }
 
+.color-text2 {
+  background-color: darkcyan;
+}
+
+.color-text {
+  background-color: lightpink;
+}
+
 p2 {
   font-family: serif;
   font-size: 21.3px;
