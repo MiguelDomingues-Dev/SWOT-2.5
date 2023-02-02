@@ -64,6 +64,11 @@ div {
   border: solid 2px black;
 }
 
+a {
+  color: black;
+  touch-action: auto;
+}
+
 /*nav {
   background-color: aquamarine;
 } */
